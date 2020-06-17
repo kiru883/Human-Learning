@@ -2,9 +2,9 @@ ROADMAP
 
   - Математика
     - ТЕРВЕР
-      -Тервер база http://mathprofi.ru/teorija_verojatnostei.html
+      - Тервер база http://mathprofi.ru/teorija_verojatnostei.html
     - Статистика
-      -Статистика база http://mathprofi.ru/matematicheskaya_statistika.html
+      - Статистика база http://mathprofi.ru/matematicheskaya_statistika.html
   - Машоб
     - Машоб база Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow (только 1 глава)
     - ОДС курсы https://habr.com/ru/company/ods/blog/322626/
