@@ -1,5 +1,5 @@
 ROADMAP
-
+  - "Скелет" (математика и машоб), Глубокое обучение Гудфеллоу
   - Математика
     - ТЕРВЕР
       - Тервер база http://mathprofi.ru/teorija_verojatnostei.html
