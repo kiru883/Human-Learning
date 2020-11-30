@@ -3,7 +3,7 @@
   - VGG16
 ## Models
   ### ResNet
-![tet](Courses/CV notes/images/resnet.PNG)
+![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/resnet.PNG)
 ЕУЫЕ  
     https://towardsdatascience.com/intuition-behind-residual-neural-networks-fa5d2996b2c7
     https://neurohive.io/en/popular-networks/vgg16/
