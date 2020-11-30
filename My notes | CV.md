@@ -13,8 +13,11 @@
 В настоящих реализациях после конв. используется пакетная нормализация и активация.
 - Fig. B - пример 34-й архитектуры, разными цветами обозначены блоки с РАЗНЫМ размером feature map'a, используется также 2 вида shortcut'a, первый - классический, обычная передача инпута, второй для изменения размера feature map'a, изменять он его может двумя разными методами: А - непараметр. метод, проходимся пулингом 1х1 с страйдом 2, размер feature map'ов изменился(уменьшился) но количество каналов такое же, добавляем нулевые feature map'ы. В - параметрический метод, он лучше, проходимся конв. 1х1 с страйдом 2(к примеру на изображении было 64 канала, прошлись 128 ядрами с страйдом 2)
 
+Количество параметров
+![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/resnetP.PNG)
+
 Ссылки
-  - https://arxiv.org/pdf/1409.1556.pdf - ориг
+  - https://arxiv.org/pdf/1512.03385.pdf - ориг
   - https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py - реализация
   - https://shuzhanfan.github.io/2018/11/ResNet/ - тут утверждают, что relu лучше применять ток к остаткам
   - https://towardsdatascience.com/intuition-behind-residual-neural-networks-fa5d2996b2c7
