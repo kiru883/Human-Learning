@@ -18,8 +18,8 @@
 
 Ссылки
   - https://arxiv.org/pdf/1512.03385.pdf - ориг
-  - https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py - реализация
-  - https://shuzhanfan.github.io/2018/11/ResNet/ - тут утверждают, что relu лучше применять ток к остаткам
+  - https://arxiv.org/pdf/1603.05027.pdf - тут утверждают, что relu лучше применять ток к остаткам
+  - https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py - реализация от keras team
   - https://towardsdatascience.com/intuition-behind-residual-neural-networks-fa5d2996b2c7
   - https://neurohive.io/ru/vidy-nejrosetej/resnet-34-50-101/
 
