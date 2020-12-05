@@ -2,7 +2,8 @@
   - ResNet
   - ResNext
 ## Models
-  ### ResNet
+
+## ResNet
 ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/resnet.PNG)
 
 - **Основная мысль** - res. block(fig. c) вместо того чтоб аппроксимироваться к H(x)("идеальный" feature map), с помощью классических методов, апроксимируемся "остатками". 
@@ -23,7 +24,9 @@
   - https://towardsdatascience.com/intuition-behind-residual-neural-networks-fa5d2996b2c7
   - https://neurohive.io/ru/vidy-nejrosetej/resnet-34-50-101/
   
-  ### ResNext
+  
+  
+## ResNext
   ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/resnext.PNG)
   
   - **Основная мысль** -  в использовании grouped convolution(нескольких трансформаций), это приводит к тому, что веса на фильтрах в слое grouped convolution менее коррелируют, это приводит к **более "разным" на выходе feature map'ам(несущих более разную инфу)**, хотя параметров у модели при этом даже чуть меньше чем у resnet'а, архитектура не меняется по сравнению с ресНетом(размер входного изобр. 224х224, после конволюций используем BN+ReLu), однако меняется топология bottleneck'a(плюс еще используем BN к остаткам перед добавлением к инпуту), в этом есть еще несколько плюсов:
