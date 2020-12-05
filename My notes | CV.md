@@ -34,11 +34,13 @@
   - **Fig. B** - Bottleneck модели, они эквивалентны, имеют параметр cardinality, кол-во трансформаций, в реализации использовался С вариант
   - **Fig. C** - Скоры на imagenet-1k
  
+ 
   Мои какие никакие визуализации:
     ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/ResNextBlockVisual.PNG)
     ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/rexnextblock.PNG)
-    - **Fig. D** - Визуализация почему bottleneck'и на fig. B эквивалентны
-    - **Fig. E** - Визуализация обычной конволюции у resnet'a(сверху) и grouped convolution у resneXt'a(снизу)
+    
+  - **Fig. D** - Визуализация почему bottleneck'и на fig. B эквивалентны
+  - **Fig. E** - Визуализация обычной конволюции у resnet'a(сверху) и grouped convolution у resneXt'a(снизу)
     
 Ссылки
   - https://arxiv.org/pdf/1611.05431.pdf - ориг
