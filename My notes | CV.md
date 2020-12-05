@@ -1,7 +1,6 @@
-# Backbones / classification
+# Models(classification)
   - ResNet
   - ResNext
-## Models
 
 ## ResNet
 ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/resnet.PNG)
@@ -51,6 +50,6 @@
   - https://pytorch.org/docs/stable/_modules/torchvision/models/resnet.html#resnext50_32x4d - pytorch'евская имплементация 
   - https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cc5d0adf648e - неплохое введение
 
-# Segmentation
+## Models(Segmentation)
   - Unet
     - https://arxiv.org/pdf/1505.04597.pdf
