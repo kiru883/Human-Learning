@@ -1,6 +1,6 @@
 # Backbones / classification
   - ResNet
-  - VGG16
+  - ResNext
 ## Models
   ### ResNet
 ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/resnet.PNG)
@@ -22,7 +22,14 @@
   - https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py - реализация от keras team
   - https://towardsdatascience.com/intuition-behind-residual-neural-networks-fa5d2996b2c7
   - https://neurohive.io/ru/vidy-nejrosetej/resnet-34-50-101/
-
+  
+  ### ResNext
+  ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/resnext.PNG)
+  - **Основная мысль** -  в использовании grouped convolution(нескольких трансформаций), это приводит к тому, что веса на фильтрах в слое grouped convolution менее коррелируют, это приводит к **более "разным" на выходе feature map'ам(несущих более разную инфу)**, хотя параметров у модели при этом даже чуть меньше чем у resnet'а, архитектура не меняется по сравнению с ресНетом, однако меняется топология bottleneck'a, в этом есть еще несколько плюсов:
+    1. **Не меняется кол-во параметров** на одном bottleneck'е, кол-во параметров на resnet'овском ботлнеке: 256 · 64 + 3 · 3 · 64 · 64 + 64 · 256 ≈ 70k,
+    на resneXt'овском - C · (256 · d + 3 · 3 · d · d + d · 256), где С - это параметр его ботлнека(cardinality кол-во трансформаций)
+    2. Возможность распаралелить модель из-за grouped convolution(я с этим не сталкивался)
+  - **Fig. A** - 
 
 
 # Segmentation
