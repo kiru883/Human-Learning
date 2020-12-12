@@ -64,8 +64,9 @@
   2. Excitation - нужен для выделения весов для карт признаков, r это reduction ratio - гиперпараметр который регулирует кол-во нейронов, по дефолту 16
   3. Scale часть, поэлементное умножение карт признаков на веса
 - **fig. C** - Архитектуры, на примере с реснетом
-  Визуализации весов на разных слоях, последняя цифра - номер слоя
-      ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/senetB.PNG)
+
+Визуализации весов на разных слоях, последняя цифра - номер слоя
+    ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/senetB.PNG)
 
 Ссылки
   - https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7 - вводное
