@@ -1,4 +1,4 @@
-Models(classification / backbones / feature extractors)
+**Models(classification / backbones / feature extractors)**
   - ResNet
   - ResNext
   - SENet / SE block
