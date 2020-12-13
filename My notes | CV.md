@@ -2,6 +2,9 @@
   - ResNet
   - ResNext
   - SENet / SE block
+  
+  
+  
 
 # ResNet
 ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/resnet.PNG)
@@ -23,6 +26,9 @@
   - https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py - реализация от keras team
   - https://towardsdatascience.com/intuition-behind-residual-neural-networks-fa5d2996b2c7
   - https://neurohive.io/ru/vidy-nejrosetej/resnet-34-50-101/
+  
+  
+  
   
   
   
@@ -50,6 +56,9 @@
   - https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215 - почему и как про grouped convolution
   - https://pytorch.org/docs/stable/_modules/torchvision/models/resnet.html#resnext50_32x4d - pytorch'евская имплементация 
   - https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cc5d0adf648e - неплохое введение
+
+
+
 
 
 
