@@ -100,12 +100,12 @@
   
   [ДОПОЛНИТЬ ИЗОБРАЖЕНИЯМИ]
   
-  Ссылки
-    - [*] https://youtu.be/gnwG5agGsJ4 - крутая лекция от Соколова
-    - https://neurohive.io/ru/vidy-nejrosetej/u-net-image-segmentation/ - короткий обзор(русс)
-    - https://www.gsitechnology.com/Beginners-Guide-to-Segmentation-in-Satellite-Images - неплохое введение
-    - https://towardsdatascience.com/review-fcn-semantic-segmentation-eb8c9b50d2d1 - вводный обзор
-    - https://arxiv.org/pdf/1411.4038.pdf - ориг(такой себе)
+Ссылки
+  - [*] https://youtu.be/gnwG5agGsJ4 - крутая лекция от Соколова
+  - https://neurohive.io/ru/vidy-nejrosetej/u-net-image-segmentation/ - короткий обзор(русс)
+  - https://www.gsitechnology.com/Beginners-Guide-to-Segmentation-in-Satellite-Images - неплохое введение
+  - https://towardsdatascience.com/review-fcn-semantic-segmentation-eb8c9b50d2d1 - вводный обзор
+  - https://arxiv.org/pdf/1411.4038.pdf - ориг(такой себе)
     
     
 
