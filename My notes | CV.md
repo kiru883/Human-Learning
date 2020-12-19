@@ -103,7 +103,7 @@
 ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/fcn_2.PNG)
 
 **fig. D** - пример архитектуры
-Примеры fcn-подобных архитектур: U-net, SegNet
+  Примеры fcn-подобных архитектур: U-net, SegNet
 
  
 Ссылки
