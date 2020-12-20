@@ -5,6 +5,7 @@
   - ResNet
   - ResNext
   - SENet / SE block
+
 **Segmentation**
   - FCN-based models
   - U-net
