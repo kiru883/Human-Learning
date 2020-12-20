@@ -135,8 +135,7 @@ _Польза от такого объединения представлена 
 - **fig. D** - Для случаев когда объекты одного класса могут сегментироваться как один объект, была предложена техника увеличения весов функции потерь на пикселях, граничащих  между двумя такими объектами. Последнее изображение хорошо демонстрирует вес такой границы.
 
 Ссылки
-
-  -[*]                  https://zhuanlan.zhihu.com/p/65398511#:~:text=Compared%20to%20FCN%2D8%2C%20the,operator%20instead%20of%20a%20sum.&text=By%20comparison%2C%20the%20basic%20FCN,in%20its%20up%2Dsampling%20path. - неплохое введение 
+  -      https://zhuanlan.zhihu.com/p/65398511#:~:text=Compared%20to%20FCN%2D8%2C%20the,operator%20instead%20of%20a%20sum.&text=By%20comparison%2C%20the%20basic%20FCN,in%20its%20up%2Dsampling%20path. - неплохое введение 
   - https://dida.do/blog/semantic-segmentation-of-satellite-images 
   - https://towardsdatascience.com/review-u-net-biomedical-image-segmentation-d02bf06ca760 
   - https://arxiv.org/pdf/1505.04597.pdf - оригинал
