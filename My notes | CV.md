@@ -106,7 +106,7 @@ _Польза от такого объединения представлена 
  
 ![](https://github.com/kiru883/Courses/blob/master/CV%20notes/images/fcnB.PNG)
 
-**fig. D** - пример архитектуры
+**fig. D** - пример архитектур FCN32, FCN16, FCN8
 
   
 
