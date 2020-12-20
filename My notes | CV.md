@@ -1,14 +1,14 @@
 Все заметки сделанны для меня, ПОЖАЛУЙСТА укажите ошибки, буду очень благодарен!
 
 
-**Models(classification / backbones / feature extractors)**
-  - ResNet
-  - ResNext
-  - SENet / SE block
+**Содержание**
+  - ResNet[classification]
+  - ResNext[classification]
+  - SENet / SE block[classification / attention]
 
 **Segmentation**
-  - FCN-based models
-  - U-net
+  - FCN-based models[segmentation]
+  - U-net[segmentation]
   
   
   
