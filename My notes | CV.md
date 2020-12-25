@@ -63,6 +63,7 @@
   - https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215 - почему и как про grouped convolution
   - https://pytorch.org/docs/stable/_modules/torchvision/models/resnet.html#resnext50_32x4d - pytorch'евская имплементация 
   - https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cc5d0adf648e - неплохое введение
+  - https://github.com/prlz77/ResNeXt.pytorch/blob/master/models/model.py - реализация
 
 
 
@@ -89,6 +90,7 @@
   - https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7 - вводное
   - https://blog.paperspace.com/channel-attention-squeeze-and-excitation-networks/ - очень хорошее объяснение
   - https://www.robots.ox.ac.uk/~vgg/publications/2018/Hu18/hu18.pdf - ориг
+  - https://github.com/last-one/tools/blob/master/pytorch/SE-ResNeXt/SeResNeXt.py - реализация 
   
   
   
